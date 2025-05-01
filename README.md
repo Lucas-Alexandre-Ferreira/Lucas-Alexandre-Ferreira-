@@ -1,7 +1,7 @@
 # Lucas Alexandre Ferreira
 
 ## 👨🏾‍🎓 Sobre mim
-Estudante de Engenharia de Software (1º semestre) na Estácio. Estudo programação por conta própria há 2 anos e meio com foco em desenvolvimento back-end, front-end e tecnologias modernas do ecossistema web e cloud.
+Estudante de Engenharia de Software (1º semestre) na Estácio. Estudo programação por conta própria há 2 anos com foco em desenvolvimento back-end, front-end e tecnologias modernas do ecossistema web e cloud.
 
 ---
 
