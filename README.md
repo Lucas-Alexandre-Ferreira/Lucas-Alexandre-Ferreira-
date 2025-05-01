@@ -3,6 +3,12 @@
 ## 👨🏾‍🎓 Sobre mim
 Estudante de Engenharia de Software (1º semestre) na Estácio. Estudo programação por conta própria há 2 anos com foco em desenvolvimento back-end, front-end e tecnologias modernas do ecossistema web e cloud.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Alexandre-Ferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Alexandre-Ferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 ---
 
 ## 👨‍💻 Conhecimentos Técnicos
@@ -57,9 +63,6 @@ Estudante de Engenharia de Software (1º semestre) na Estácio. Estudo programa�
 
 - **Blog Orgulho Negro**  
   Projeto pessoal voltado à valorização da cultura negra, com foco em postagens, comentários e categorias. O objetivo é desenvolver um sistema completo com back-end em Java (Spring Boot), autenticação via JWT, painel administrativo, e integração com React no front-end.
-
-- **Site Institucional da ONG UNEGRO**  
-  Desenvolvimento de um site informativo e responsivo para a ONG UNEGRO, com objetivo de divulgar ações, eventos e permitir contato direto com a organização. Será estruturado com foco em acessibilidade, performance e segurança, utilizando arquitetura moderna e boas práticas de design de interfaces.
 
 ---
 
