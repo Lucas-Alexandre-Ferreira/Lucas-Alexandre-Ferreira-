@@ -1,7 +1,12 @@
 # Lucas Alexandre Ferreira
 
-## 👨🏾‍🎓 Sobre mim
-Estudante de Engenharia de Software (1º semestre) na Estácio. Estudo programação por conta própria há 2 anos com foco em desenvolvimento back-end, front-end e tecnologias modernas do ecossistema web e cloud.
+## Sobre Mim
+
+Sou estudante de **Engenharia de Software** e estou me especializando em **Desenvolvimento Back-End** com foco em **Java**. Tenho experiência em **Spring Boot**, **JPA (Hibernate)**, e **APIs RESTful**. Estou em constante aprendizado e sempre em busca de novos desafios.
+
+## Projetos
+
+Ainda não possuo projetos finalizados, mas estou desenvolvendo aplicações com foco em back-end utilizando **Java** e **Spring Boot**. Eles estarão disponíveis em breve.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Alexandre-Ferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
@@ -27,23 +32,16 @@ Estudante de Engenharia de Software (1º semestre) na Estácio. Estudo programa�
 - JasperReports, Apache POI
 - Arquitetura MVC, DTO, Padrões de Projeto (Builder, Factory, Strategy, Fluent Interface)
 
-### 🖥️ Front-End
-- HTML5, CSS3 (intermediário e avançado)
-- Design responsivo, W3.CSS, Bootstrap 3/4/5
-- JavaScript (moderno - ES6+), TypeScript
-- Ajax, JQuery
-- ReactJS, Vue.js, AngularJS
-- WordPress
+**Front-End básico**: 
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- AJAX
+- JSON
+- consumo de APIs
 
-### 📱 Mobile
-- Aplicações com IONIC
-
-### 🌐 Full Stack & Outros
-- PHP com PDO
-- Slim Framework (API)
-- Padrão MVC com PHP
-- Node.js
-- XML
+### 🌐 Outros
 - Segurança Cibernética
 
 ### 🧠 Fundamentos e Conceitos
@@ -56,13 +54,6 @@ Estudante de Engenharia de Software (1º semestre) na Estácio. Estudo programa�
 - Banco de Dados Relacional e Não Relacional
 - Git e GitHub
 - Scrum (nível básico)
-
----
-
-## 🚧 Projetos em Desenvolvimento
-
-- **Blog Orgulho Negro**  
-  Projeto pessoal voltado à valorização da cultura negra, com foco em postagens, comentários e categorias. O objetivo é desenvolver um sistema completo com back-end em Java (Spring Boot), autenticação via JWT, painel administrativo, e integração com React no front-end.
 
 ---
 
