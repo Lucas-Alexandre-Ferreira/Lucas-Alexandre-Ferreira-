@@ -4,16 +4,12 @@
 
 Sou estudante de **Engenharia de Software** e estou me especializando em **Desenvolvimento Back-End** com foco em **Java**. Tenho experiência em **Spring Boot**, **JPA (Hibernate)**, e **APIs RESTful**. Estou em constante aprendizado e sempre em busca de novos desafios.
 
-## Projetos
-
-Ainda não possuo projetos finalizados, mas estou desenvolvendo aplicações com foco em back-end utilizando **Java** e **Spring Boot**. Eles estarão disponíveis em breve.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Alexandre-Ferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Alexandre-Ferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+## Alguns dos Projetos no GitHub  
+- [Sistema de Estoque](https://github.com/Lucas-Alexandre-Ferreira/Sistema-de-Estoque)  
+- [Tabela Periódica](https://github.com/Lucas-Alexandre-Ferreira/Tabela-periodica)  
+- [Calculadora de Média](https://github.com/Lucas-Alexandre-Ferreira/Calculadora-media)  
+- [Landing Page Tema Comida](https://github.com/Lucas-Alexandre-Ferreira/landing-page-tema-comida)  
+- [Formulário](https://github.com/Lucas-Alexandre-Ferreira/Formulario)
 ---
 
 ## 👨‍💻 Conhecimentos Técnicos
